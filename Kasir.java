@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 // Parent class Barang
-
 class Barang {
     protected String kodeBarang;
     protected String namaBarang;
