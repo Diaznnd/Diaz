@@ -1,4 +1,3 @@
-package Tugas4_pbo;
 import java.util.Scanner;
 
 // Parent class Barang
